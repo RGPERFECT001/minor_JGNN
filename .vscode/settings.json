@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "commons-codec-1.17.1/commons-codec-1.17.1.jar",
+        "commons-codec-1.17.1/commons-codec-1.17.1-javadoc.jar",
+        "commons-codec-1.17.1/commons-codec-1.17.1-sources.jar",
+        "commons-codec-1.17.1/commons-codec-1.17.1-tests.jar",
+        "commons-codec-1.17.1/commons-codec-1.17.1-test-sources.jar",
+        "commons-csv-1.12.0-bin/commons-csv-1.12.0/commons-csv-1.12.0.jar",
+        "commons-csv-1.12.0-bin/commons-csv-1.12.0/commons-csv-1.12.0-sources.jar",
+        "commons-io-2.17.0/commons-io-2.17.0.jar",
+        "commons-io-2.17.0/commons-io-2.17.0-javadoc.jar",
+        "commons-io-2.17.0/commons-io-2.17.0-sources.jar",
+        "commons-io-2.17.0/commons-io-2.17.0-tests.jar",
+        "commons-io-2.17.0/commons-io-2.17.0-test-sources.jar"
+    ]
+}
